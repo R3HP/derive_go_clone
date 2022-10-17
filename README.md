@@ -7,7 +7,11 @@ Working with Websockets and Charts
 Note : Should Place Your Deriv Token in constants.dart
 
 
-https://user-images.githubusercontent.com/41432455/196283852-fa79b19a-2162-43c6-8eaf-565b7320b26e.mp4
+
+https://user-images.githubusercontent.com/41432455/196284663-75ea6fd9-3759-4b08-8160-bafba872588e.mp4
+
+
+
 
 
 ## Getting Started
