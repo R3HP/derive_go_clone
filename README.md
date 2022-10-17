@@ -8,7 +8,11 @@ Note : Should Place Your Deriv Token in constants.dart
 
 
 
-https://user-images.githubusercontent.com/41432455/196284663-75ea6fd9-3759-4b08-8160-bafba872588e.mp4
+
+https://user-images.githubusercontent.com/41432455/196285550-120b3bc0-f654-4789-adaf-e5f2654d0cec.mp4
+
+
+
 
 
 
