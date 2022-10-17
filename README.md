@@ -1,6 +1,10 @@
 # deriv_go_clone
 
-A new Flutter project.
+A simple Clone of Deriv Go App 
+
+Working with Websockets and Charts
+
+Note : Should Place Your Deriv Token in constants.dart
 
 ## Getting Started
 
